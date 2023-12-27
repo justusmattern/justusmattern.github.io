@@ -12,8 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Justus Mattern # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Hi, I'm Justus! I am a co-founder of <a href="https://haven.run/" target="_blank">Haven</a>. We try to make open source LLMs useful and are backed by YCombinator. Before starting a company, I studied maths & computer science at RWTH Aachen and worked on AI research.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
