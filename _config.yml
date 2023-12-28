@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Justus Mattern # author name
   bio: >- # tell to the world
-    Hi, I'm Justus! I am a co-founder of <a href="https://haven.run/" target="_blank">Haven</a>. We try to make open source LLMs useful and are backed by YCombinator. Previously, I studied maths & CS at RWTH Aachen and worked on AI research.
+    Hi, I'm Justus! I like technology and grappling. Currently, I am a co-founder of <a href="https://haven.run/" target="_blank">Haven</a>.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
